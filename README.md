@@ -1,5 +1,9 @@
 # BackboneQuiz
 
-A simple test application for Backbone employment
+A simple test application for Backbone employment consideration.
 
-To build and run this application, use "npm run build-and-start".
+To start using this application : 
+
+1) git clone https://github.com/rtmyers/BackboneQuiz.git
+
+2) cd BackboneQuiz && npm run build-and-start
