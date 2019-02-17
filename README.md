@@ -2,7 +2,7 @@
 
 A simple test application for Backbone employment consideration. 
 
-The first repo for this was accidentally created privately, so I've re-deployed it in this public repo.
+The first repo for this was mistakenly created privately, so I've re-deployed it in this public repo.
 
 To start using this application : 
 
